@@ -1,0 +1,23 @@
+body {
+    width: fit-content;
+}
+
+menu {
+    display:flex;
+    gap: 30px;
+    background-color: rgb(250, 237, 239);
+    border: 5px solid rgb(37, 37, 92);
+    color: white;
+    justify-content:center;
+}
+
+img {
+    border-radius: 3%;
+    border: 3px solid rgb(37, 37, 92);
+}
+
+hr {
+    background-color: rgb(37, 37, 92);
+    height: 2px;
+    border: none;
+}
